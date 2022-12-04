@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **tannyaverma086@gmail.com**
 
+-📫 How to reach me **https://www.linkedin.com/in/tanya-verma-0820a820b/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanya-verma-0820a820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya-verma-0820a820b" height="30" width="40" /></a>
