@@ -11,7 +11,7 @@
 
 - 📝 I have written article on [https://medium.com/@tannyaverma086](https://medium.com/@tannyaverma086)
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS and DSA(Basic-level)**
+- 💬 Ask me about **DSA, DevOps , Python, C++, Flutter, Cybersecurity**
 
 - 📫 How to reach me **tannyaverma086@gmail.com**
 
