@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya172&label=Profile%20views&color=0e75b6&style=flat" alt="tanya172" /> </p>
 
-- 🌱 I’m currently learning **ReactJs and DSA**
+- 🌱 ASE @ Accenture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanya172](https://github.com/tanya172)
 
